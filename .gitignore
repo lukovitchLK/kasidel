@@ -39,8 +39,3 @@ next-env.d.ts
 # IDE specific files (JetBrains)
 .idea/
 
-# Ensure important files aren't ignored
-/package.json
-/package-lock.json
-/yarn.lock
-/next.config.js
